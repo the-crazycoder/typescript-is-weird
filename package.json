@@ -1,0 +1,22 @@
+{
+  "name": "typescript-is-weird",
+  "version": "1.0.0",
+  "description": "I know javascript. I don't know typescript. Help me",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-crazycoder/typescript-is-weird.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-crazycoder/typescript-is-weird/issues"
+  },
+  "homepage": "https://github.com/the-crazycoder/typescript-is-weird#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
